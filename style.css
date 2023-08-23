@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    height: 33rem;
+    margin-top: 2rem;
+    background-color: yellow;
+    border-radius: 1rem;
+}
+img{
+    width: 12rem;
+    margin-top: 1.5rem;
+   
+}
+button{
+    padding: 0.5rem 2rem;
+    background-color:#F99417;
+    border-radius: 1rem;
+    border: none;
+    margin-left:38%;
+    margin-top: 1.5rem;
+    color: black;
+}
+button:hover{
+    background-color:#ec8302;
+    box-shadow: 1px 1px 3px #c57008;
+}
+p{
+    text-align:center;
+    margin-top: 2rem;
+}
